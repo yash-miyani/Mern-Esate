@@ -9,7 +9,7 @@
 
 ## Getting Started
 
-1. Clone this repository using `git clone https://github.com/mohamedsamara95/MERN_Project.git` command in your terminal or download it
+1. Clone this repository using `git clone (https://github.com/yash-miyani/Mern-Esate.git)` command in your terminal or download it
 2. Your Local System should have **NodeJS** and **NPM** installed in it to run this project.
 3. Clone or download the repository from GitHub onto your local system.
 4. Navigate into the directory of downloaded folder using command prompt(CMD)/Terminal
